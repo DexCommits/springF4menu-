@@ -52,7 +52,7 @@ CODEXLIST:IncludeClient("ents_tab")
 CODEXLIST:IncludeClient("weps_tab")
 CODEXLIST:IncludeClient("ammo_tab")
 CODEXLIST:IncludeClient("dashboard")
-
+CODEXLIST:IncludeClient("searchbar")
 
 
 CODEXLIST.Weapons = {
